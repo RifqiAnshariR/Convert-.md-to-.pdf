@@ -1,5 +1,5 @@
 # Convert-.md-to-.pdf
-Convert .md to .pdf with python
+Konversi .md to .pdf with python.
 
 # Install Pandoc
 - Download dan install Pandoc: https://pandoc.org/installing.html
