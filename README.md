@@ -8,6 +8,3 @@ Convert .md to .pdf with python
 # Install MiKTeX (pdflatex)
 - Download dan install MiKTeX: https://miktex.org/download
 - Setelah instalasi, jalankan: pdflatex --version
-
-# Install Python Dependencies
-- Jalankan: pip install -r requirements.txt
